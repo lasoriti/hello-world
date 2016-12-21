@@ -8,3 +8,5 @@ a sufficient number of photons with energy/frequency in the visible light range,
 is carrying an interesting meaning is extremely close to zero. In other words, it can
 be safely assumed that the time you are spending in reading this file could be 
 considered wasted to all practical effects.
+
+Who am I? A friend. Of whom? Of myself.
